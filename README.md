@@ -1,3 +1,8 @@
+Added some fixes and small edits to make it run on my CX-818 RK3066-based TV-box, with Debian Linux.
+
+Forked from olegk0's repository. See his description below.
+
+----------------------------------
 Linux kernel for mk808 on the Rockchip RK3066 SoC
 
 Experimental version
